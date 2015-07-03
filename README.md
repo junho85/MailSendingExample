@@ -1,0 +1,2 @@
+# MailSendingExample
+mail sending example
